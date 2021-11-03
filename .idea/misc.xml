@@ -5,7 +5,8 @@
       <map>
         <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/drawable/ic_launcher_sleep_tracker_background.xml" value="0.16203703703703703" />
         <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/drawable/ic_launcher_sleep_tracker_foreground.xml" value="0.16203703703703703" />
-        <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/drawable/ic_sleep_0.xml" value="0.16203703703703703" />
+        <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/drawable/ic_sleep_0.xml" value="0.176" />
+        <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/font/roboto.xml" value="0.284375" />
         <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/layout/fragment_sleep_quality.xml" value="0.17889492753623187" />
         <entry key="..\:/Proyectos/00TrackMySleepQualityFinal/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.17889492753623187" />
